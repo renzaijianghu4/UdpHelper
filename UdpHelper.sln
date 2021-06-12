@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpHelperTest", "UdpHelperTest\UdpHelperTest.csproj", "{CE6EBEA2-E81D-4D2C-9DFD-F61C77D6B78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpHelper", "UdpHelper\UdpHelper.csproj", "{CCAC3736-0FDF-4466-9F5F-58AAB9856F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE6EBEA2-E81D-4D2C-9DFD-F61C77D6B78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6EBEA2-E81D-4D2C-9DFD-F61C77D6B78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6EBEA2-E81D-4D2C-9DFD-F61C77D6B78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6EBEA2-E81D-4D2C-9DFD-F61C77D6B78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCAC3736-0FDF-4466-9F5F-58AAB9856F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAC3736-0FDF-4466-9F5F-58AAB9856F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAC3736-0FDF-4466-9F5F-58AAB9856F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAC3736-0FDF-4466-9F5F-58AAB9856F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02866792-D8A3-49C7-A2D0-CAE5C8DFDA62}
+	EndGlobalSection
+EndGlobal

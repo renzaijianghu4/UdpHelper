@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\UdpHelper\UdpHelperTest\bin\Debug\UdpHelperTest.exe
+C:\Users\Administrator\source\repos\UdpHelper\UdpHelperTest\bin\Debug\UdpHelperTest.pdb
+C:\Users\Administrator\source\repos\UdpHelper\UdpHelperTest\obj\Debug\UdpHelperTest.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\UdpHelper\UdpHelperTest\obj\Debug\UdpHelperTest.Form1.resources
+C:\Users\Administrator\source\repos\UdpHelper\UdpHelperTest\obj\Debug\UdpHelperTest.Properties.Resources.resources
+C:\Users\Administrator\source\repos\UdpHelper\UdpHelperTest\obj\Debug\UdpHelperTest.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\UdpHelper\UdpHelperTest\obj\Debug\UdpHelperTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\UdpHelper\UdpHelperTest\obj\Debug\UdpHelperTest.exe
+C:\Users\Administrator\source\repos\UdpHelper\UdpHelperTest\obj\Debug\UdpHelperTest.pdb
+C:\Users\Administrator\source\repos\UdpHelper\UdpHelperTest\bin\Debug\UdpHelper.dll
+C:\Users\Administrator\source\repos\UdpHelper\UdpHelperTest\bin\Debug\UdpHelper.pdb
+C:\Users\Administrator\source\repos\UdpHelper\UdpHelperTest\obj\Debug\UdpHelperTest.csproj.CopyComplete
