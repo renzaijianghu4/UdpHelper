@@ -1,6 +1,0 @@
-C:\Users\Administrator\source\repos\UdpHelper\UdpHelper\bin\Debug\UdpHelper.dll
-C:\Users\Administrator\source\repos\UdpHelper\UdpHelper\bin\Debug\UdpHelper.pdb
-C:\Users\Administrator\source\repos\UdpHelper\UdpHelper\obj\Debug\UdpHelper.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\source\repos\UdpHelper\UdpHelper\obj\Debug\UdpHelper.dll
-C:\Users\Administrator\source\repos\UdpHelper\UdpHelper\obj\Debug\UdpHelper.pdb
-C:\Users\Administrator\source\repos\UdpHelper\UdpHelper\obj\Debug\UdpHelper.csprojAssemblyReference.cache

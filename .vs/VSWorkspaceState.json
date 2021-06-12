@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\UdpHelper",
+    "\\UdpHelperTest"
   ],
+  "SelectedNode": "\\UdpHelper.sln",
   "PreviewInSolutionExplorer": false
 }
